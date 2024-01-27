@@ -1,7 +1,7 @@
 <!-- Sapanish -->
 # Day19
 
-__FAQ Accordion
+_FAQ Accordion
 
 ## Desarrollado utilizando la metododologia Mobile First
 _Utilización de medias querie la cual permite obtener una vista responsive la cual se adapta a dispositivos moviles tabletas etc.
@@ -23,15 +23,15 @@ _Computadora sea de escritorio o portatil asi como también dispositivos moviles
 ## Ejecutando las pruebas ⚙️
 
 _Abrir cualquier navegador y ingresar la siguiente url:
-https://dyegho.github.io/day01/preview-card.html
+https://dyegho.github.io/day19/accordion.html
 
 
 ## Capturas de pantalla
 # Mobile
-![My Image](img/FAQ-MObile.jpg)
+![My Image](./img/FAQ-Mobile.JPG)
 
 # Desktop
-![My Image](img/FAQ-Desktop.jpg)
+![My Image](./img/FAQ-Desktop.JPG)
 # Desarrollador ⚙️
     Diego Pitizaca 
     
@@ -85,6 +85,9 @@ https://dyegho.github.io/day19/accordion.html
 
 These have demanded me a different study in the way of designing a web component, increasing day by day my passion for design and adherence to the demands of today in the field of web development.
 In this journey of coding starts new challenges to keep improving.
+
+
+
 
 
 
