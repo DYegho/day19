@@ -71,11 +71,11 @@ https://dyegho.github.io/day19/accordion.html
 
 
 ## Screenshots
-## Mobile
-![My Image](img/FAQ-MObile.jpg)
+# Mobile
+![My Image](./img/FAQ-Mobile.JPG)
 
 # Desktop
-![My Image](img/FAQ-Desktop.jpg)
+![My Image](./img/FAQ-Desktop.JPG)
 # Developer ⚙️
     Diego Pitizaca 
     
@@ -85,6 +85,7 @@ https://dyegho.github.io/day19/accordion.html
 
 These have demanded me a different study in the way of designing a web component, increasing day by day my passion for design and adherence to the demands of today in the field of web development.
 In this journey of coding starts new challenges to keep improving.
+
 
 
 
