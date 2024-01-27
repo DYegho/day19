@@ -28,10 +28,10 @@ https://dyegho.github.io/day01/preview-card.html
 
 ## Capturas de pantalla
 # Mobile
-![My Image](images/my-image.jpg)
+![My Image](img/FAQ-MObile.jpg)
 
 # Desktop
-![My Image](img/my-image.jpg)
+![My Image](img/FAQ-Desktop.jpg)
 # Desarrollador ⚙️
     Diego Pitizaca 
     
@@ -72,10 +72,10 @@ https://dyegho.github.io/day19/accordion.html
 
 ## Screenshots
 ## Mobile
-![My Image](images/my-image.jpg)
+![My Image](img/FAQ-MObile.jpg)
 
 # Desktop
-![My Image](img/my-image.jpg)
+![My Image](img/FAQ-Desktop.jpg)
 # Developer ⚙️
     Diego Pitizaca 
     
