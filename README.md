@@ -1,7 +1,7 @@
 <!-- Sapanish -->
 # Day19
 
-_Creación de una imagen con el resumen de estadisticas y su imagen respectiva
+__FAQ Accordion
 
 ## Desarrollado utilizando la metododologia Mobile First
 _Utilización de medias querie la cual permite obtener una vista responsive la cual se adapta a dispositivos moviles tabletas etc.
